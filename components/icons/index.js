@@ -1,0 +1,10 @@
+export { AstronautIcon } from "./AstronautIcon";
+export { BacteriumIcon } from "./BacteriumIcon";
+export { BedIcon } from "./BedIcon";
+export { EditIcon } from "./EditIcon";
+export { Female } from "./Female";
+export { Male } from "./Male";
+export { Kidneys } from "./Kidneys";
+export { SoapIcon } from "./SoapIcon";
+export { TaskIcon } from "./TaskIcon";
+export { UrgenciasIcon } from "./UrgenciasIcon";
